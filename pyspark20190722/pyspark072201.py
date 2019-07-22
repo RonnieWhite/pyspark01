@@ -13,3 +13,4 @@ distdata = sc.textFile("file:///E:/IdeaProjects/pyspark01/pyspark20190722/data/s
 mapRdd = distdata.flatMap(lambda line: line.split(' ')).map(lambda x: (x, 1)).reduceByKey(lambda x, y: x + y).map(
     lambda x: (x[1], x[0])).sortByKey(False).map(lambda x: (x[1], x[0]))
 print(mapRdd.collect())
+
