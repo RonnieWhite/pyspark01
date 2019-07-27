@@ -2,11 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8711d03-a75b-4cc5-8c7f-3616e3f20794" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/venv/env/pyvenv.cfg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyspark01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pyspark01.iml" afterDir="false" />
+=======
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/pyspark201907/data/people.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyspark201907/pyspark072601.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyspark20190722/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyspark201907/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyspark20190722/data/sparkdata" beforeDir="false" afterPath="$PROJECT_DIR$/pyspark201907/data/sparkdata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyspark20190722/pyspark072201.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyspark201907/pyspark072201.py" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/pyspark20190723/SimpleApp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyspark20190723/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 20d0c657e5e6ae109f88899f559f4c6d3890d50c
+>>>>>>> 3796147c7622018c5150af3caa66b33383847ae9
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,9 +38,69 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/pyspark201907/pyspark072201.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="11" column="86" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pyspark201907/pyspark072601.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+=======
+        <entry file="file://$PROJECT_DIR$/pyspark20190722/pyspark072201.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pyspark20190723/SimpleApp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" selection-end-line="11" />
+>>>>>>> 20d0c657e5e6ae109f88899f559f4c6d3890d50c
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyspark201907/data/people.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="43" selection-start-column="43" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyspark201907/data/sparkdata">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+>>>>>>> 3796147c7622018c5150af3caa66b33383847ae9
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Setup Script" />
         <option value="Python Script" />
       </list>
     </option>
@@ -32,22 +108,117 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="1OaEp1IAffaYZ9hIIIlWIL84Ojb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+=======
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pyspark20190722/data/sparkdata" />
+        <option value="$PROJECT_DIR$/pyspark20190722/pyspark072201.py" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/pyspark201907/pyspark072201.py" />
+        <option value="$PROJECT_DIR$/pyspark201907/data/people.json" />
+        <option value="$PROJECT_DIR$/pyspark201907/pyspark072601.py" />
+=======
+        <option value="$PROJECT_DIR$/pyspark20190723/SimpleApp.py" />
+>>>>>>> 20d0c657e5e6ae109f88899f559f4c6d3890d50c
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-28" />
+    <option name="y" value="492" />
+    <option name="width" value="1907" />
+    <option name="height" value="722" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+<<<<<<< HEAD
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+=======
+>>>>>>> 20d0c657e5e6ae109f88899f559f4c6d3890d50c
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+<<<<<<< HEAD
+      <pane id="PackagesPane" />
+=======
+      <pane id="Scope" />
+>>>>>>> 20d0c657e5e6ae109f88899f559f4c6d3890d50c
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pyspark01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyspark01" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="pyspark01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyspark01" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="pyspark01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyspark01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyspark01" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="pyspark01" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="pyspark201907" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyspark01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyspark01" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="pyspark01" type="462c0819:PsiDirectoryNode" />
+              <item name="pyspark201907" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="pyspark20190723" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 20d0c657e5e6ae109f88899f559f4c6d3890d50c
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+<<<<<<< HEAD
+      <pane id="Scope" />
+=======
+      <pane id="PackagesPane" />
+>>>>>>> 20d0c657e5e6ae109f88899f559f4c6d3890d50c
+    </panes>
+  </component>
+>>>>>>> 3796147c7622018c5150af3caa66b33383847ae9
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+=======
+<<<<<<< HEAD
+    <property name="last_opened_file_path" value="D:/spark-2.3.0-bin-hadoop2.7/python/lib/pyspark.zip!/" />
+>>>>>>> 3796147c7622018c5150af3caa66b33383847ae9
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+<<<<<<< HEAD
+=======
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 20d0c657e5e6ae109f88899f559f4c6d3890d50c
+>>>>>>> 3796147c7622018c5150af3caa66b33383847ae9
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -72,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.pyspark072601">
     <configuration name="pyspark072201" type="PythonConfigurationType" factoryName="Python">
       <module name="pyspark01" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,6 +278,72 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pyspark072601" type="PythonConfigurationType" factoryName="Python">
+      <module name="pyspark01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PATHPATH" value="D:\spark-2.3.0-bin-hadoop2.7\python" />
+        <env name="SPARK_HOME" value="D:\spark-2.3.0-bin-hadoop2.7" />
+      </envs>
+      <option name="SDK_HOME" value="D:/ProgramData/Anaconda3/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyspark201907" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyspark201907/pyspark072601.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyspark01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/setup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.pyspark072201" />
+      <item itemvalue="Python.pyspark072601" />
+      <item itemvalue="Python.setup" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.setup" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -118,13 +355,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563771783610</updated>
+<<<<<<< HEAD
+      <workItem from="1563771796027" duration="8208000" />
+      <workItem from="1563843387252" duration="1198000" />
+      <workItem from="1563874548395" duration="1008000" />
+      <workItem from="1564042575975" duration="590000" />
+      <workItem from="1564131538623" duration="2578000" />
+    </task>
+    <task id="LOCAL-00001" summary="算子熟悉，topN和求均值代码">
+      <created>1563784975463</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563784975463</updated>
+=======
       <workItem from="1563771796027" duration="7523000" />
       <workItem from="1563889130207" duration="1645000" />
+<<<<<<< HEAD
       <workItem from="1564207489868" duration="330000" />
       <workItem from="1564207833761" duration="1943000" />
+=======
+>>>>>>> 20d0c657e5e6ae109f88899f559f4c6d3890d50c
+>>>>>>> 3796147c7622018c5150af3caa66b33383847ae9
     </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+<<<<<<< HEAD
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -140,6 +397,125 @@
         </entry>
       </map>
     </option>
+=======
+  <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="13582000" />
+=======
+    <option name="totallyTimeSpent" value="9168000" />
+>>>>>>> 20d0c657e5e6ae109f88899f559f4c6d3890d50c
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+<<<<<<< HEAD
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23146747" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22117962" />
+>>>>>>> 20d0c657e5e6ae109f88899f559f4c6d3890d50c
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3786885" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="SciView" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="算子熟悉，topN和求均值代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="算子熟悉，topN和求均值代码" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pyspark01$pyspark072201.coverage" NAME="pyspark072201 Coverage Results" MODIFIED="1563784769262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyspark20190722" />
+    <SUITE FILE_PATH="coverage/pyspark01$setup.coverage" NAME="setup Coverage Results" MODIFIED="1563874975043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pyspark01$pyspark072601.coverage" NAME="pyspark072601 Coverage Results" MODIFIED="1564133499612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyspark201907" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/setup.py" />
+    <entry file="file://$PROJECT_DIR$/pyspark201907/data/sparkdata">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyspark201907/pyspark072201.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="86" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyspark201907/data/people.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-start-column="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyspark201907/pyspark072601.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+=======
+    <entry file="file://$PROJECT_DIR$/pyspark20190722/pyspark072201.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyspark20190722/data/sparkdata">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyspark20190723/SimpleApp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" selection-end-line="11" />
+>>>>>>> 20d0c657e5e6ae109f88899f559f4c6d3890d50c
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 3796147c7622018c5150af3caa66b33383847ae9
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
