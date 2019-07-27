@@ -9,7 +9,7 @@ from pyspark import SparkConf, SparkContext
 
 conf = SparkConf().setMaster('local[2]').setAppName('pyspark072201')
 sc = SparkContext(conf=conf)
-distdata = sc.textFile("file:///E:/IdeaProjects/pyspark01/pyspark20190722/data/sparkdata")
+distdata = sc.textFile("file:///E:/IdeaProjects/pyspark01/pyspark201907/data/sparkdata")
 
 
 def demo1():
